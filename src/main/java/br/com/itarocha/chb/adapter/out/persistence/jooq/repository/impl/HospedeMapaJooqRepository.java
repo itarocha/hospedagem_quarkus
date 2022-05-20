@@ -11,10 +11,6 @@ import java.time.LocalDate;
 import java.util.List;
 
 import static br.com.itarocha.chb.adapter.out.persistence.jooq.data.Tables.*;
-//import static br.com.itarocha.chb.jooq.tables.Hospede.HOSPEDE;
-//import static br.com.itarocha.chb.jooq.tables.HospedeLeito.HOSPEDE_LEITO;
-//import static br.com.itarocha.chb.jooq.tables.Leito.LEITO;
-//import static br.com.itarocha.chb.jooq.tables.Pessoa.PESSOA;
 import static org.jooq.impl.DSL.*;
 
 @ApplicationScoped
