@@ -1,4 +1,4 @@
-# hospedagem Project
+# Protótipo para api de hospedagem em Quarkus utilizando JooQ
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
